@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="original_sender_color">#000000</color>
+    <color name="success_sender_color">#00FF00</color>
+    <color name="error_sender_color">#FF0000</color>
+</resources>
